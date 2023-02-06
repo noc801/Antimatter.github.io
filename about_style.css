@@ -5,8 +5,10 @@ header {
     text-align: center;
     font-family: Impact;
     font-size: 7em;
-    color:cadetblue;
+    color:rgb(108, 84, 225);
    height: 0.000001em;}
+
+   body{background-color: rgba(0, 0, 0, 0.771);}
 
    article {margin: -15em auto;}
 
@@ -15,22 +17,26 @@ article h1 {
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
  position: relative;
  text-align: center;
+ color: rgb(162, 159, 163);
 }
 article p1 {
     font-size: 1.2em;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
  position: relative; 
+ color: rgb(162, 159, 163);
 }
 article h2 {
     font-size: 2em;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
  position: relative;
  text-align: center;
+ color: rgb(162, 159, 163);
 }
 article p2 {
     font-size: 1.2em;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
  position: relative;
+ color: rgb(162, 159, 163);
 }
 nav {margin-top: -3.7em;}
 
@@ -44,8 +50,8 @@ ul {
  }
  
  nav.horizontal {
-    background-color:rgb(93, 13, 93);
-    height: 30px;
+   background-color:rgb(75, 0, 150);
+    height: 25px;
     margin-bottom: 5px;
     margin-top: 70px auto;
  }

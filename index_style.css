@@ -13,7 +13,8 @@ header {
 article p {
     font-size: 1.2em;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
- 
+ position: relative;
+ margin-top: -8em; 
 }
 
 ul {
@@ -69,3 +70,17 @@ nav.horizontal ul {
 
  article {display: grid;
 height: 150px;}
+
+/* for when we have logo
+#img{
+    width: 200px;
+    height: 200px;
+    background-image:url(yourImage.png);
+    background-repeat:no-repeat;
+    background-position: top left;
+
+#txt{
+    position: absolute;
+    margin-left: 20px;
+    margin-right: 20px;
+} */

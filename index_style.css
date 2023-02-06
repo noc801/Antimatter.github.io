@@ -7,3 +7,7 @@ h1 {
     font-size: 3em;
     color: crimson;
 }
+
+p {font-size: 1.5em;
+margin-left: 2em;
+font-family: serif;}

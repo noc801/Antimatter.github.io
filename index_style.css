@@ -15,6 +15,7 @@ article h1 {
     font-size: 2em;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
  position: relative;
+ text-align: center;
 }
 
 nav {margin-top: -3.7em;}

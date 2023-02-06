@@ -1,15 +1,12 @@
 @charset "utf-8";
 
 /* Heading style */
-header {
-    text-align: center;
-    font-family: Impact;
-    font-size: 7em;
-    color: crimson;
-   height: 0.000001em;
-}
+header img {
+   display: block;
+   width: 100%;
+height: 75%;}
 
-article {margin: -15em auto;}
+article {margin: -10em auto;}
 
 article h1 {
     font-size: 2em;
